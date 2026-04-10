@@ -1,0 +1,16 @@
+{
+  "package": {
+    "repo": "repo-map",
+    "version": "0.1.0"
+  },
+  "binary": {
+    "name": "repo-map",
+    "entrypoint": "src/cli.ts",
+    "aliases": []
+  },
+  "meta": {
+    "description": "Lightweight repository mapper for Rust and TypeScript codebases",
+    "homepage": "https://github.com/RogerNavelsaker/nixpkg-repo-map",
+    "licenseSpdx": "MIT"
+  }
+}
